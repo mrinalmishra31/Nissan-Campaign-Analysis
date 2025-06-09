@@ -63,5 +63,11 @@ For academic reference, marketing collaborations, or campaign walkthroughs, feel
 > *This repository is a creative and academic showcase. Nissan is a trademark of Nissan Motor Corporation.*
 
 ---
+## 📢 License
 
-© 2024 | Created by Mrinal Mishra
+This project is part of an academic coursework and is provided for educational reference only.
+
+---
+
+© 2025 | Created by Mrinal Mishra
+
